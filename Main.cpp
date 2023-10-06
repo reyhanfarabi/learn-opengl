@@ -39,7 +39,7 @@ int main()
 
 	// swap between front and back buffer
 	glfwSwapBuffers(window);
-
+	
 	// loop until user close the window
 	while (!glfwWindowShouldClose(window))
 	{
